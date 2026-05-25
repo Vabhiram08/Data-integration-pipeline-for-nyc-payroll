@@ -1,0 +1,15 @@
+{
+	"name": "projnycpayroll",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4e4a79d3-9c45-442d-9a3e-a9b48c65bbea",
+		"tenantId": "6a08c654-c086-4485-9d0a-6656fb9d60f6"
+	}
+}
